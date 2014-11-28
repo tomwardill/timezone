@@ -5,4 +5,10 @@ module.exports = [
     city: 'York',
     tz: 'Europe/London'
   },
+  {
+    name: "Pawel", 
+    avatar: "http://support.scrapinghub.com/s/cache/22/3a/223a0ecc1f51c728d94ca0da34e05ebd.png",
+    city: "Krakow", 
+    tz: "Europe/Warsaw"
+  }
 ];
